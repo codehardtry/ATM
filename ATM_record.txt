@@ -1,0 +1,93 @@
+[2022142920221199] HELO command received at 2024-04-11 00:41:13
+[2022142920221199] PASS command received at 2024-04-11 00:41:27. Authentication status: Successful
+[2022142920221199] BYE command received at 2024-04-11 00:41:34
+[2022142920221199] HELO command received at 2024-04-11 00:41:52
+[2022142920221199] PASS command received at 2024-04-11 00:42:12. Authentication status: Failed
+[2022142920221199] PASS command received at 2024-04-11 00:42:25. Authentication status: Successful
+[2022142920221199] BALA command received at 2024-04-11 00:42:28. Balance inquiry result: 5000
+[2022142920221199] WDRA command received at 2024-04-11 00:42:32. Withdrawal amount: 1000. Status: Successful
+[2022142920221199] BYE command received at 2024-04-11 00:42:42
+[ 2022142920221199] HELO command received at 2024-04-11 15:20:04
+[20221429202221199] HELO command received at 2024-04-11 15:21:58
+[2022142920221199] HELO command received at 2024-04-11 15:22:12
+[2022142920221199] PASS command received at 2024-04-11 15:22:18. Authentication status: Successful
+[2022142920221199] BALA command received at 2024-04-11 15:22:20. Balance inquiry result: 50000000
+[2022142920221199] WDRA command received at 2024-04-11 15:22:26. Withdrawal amount: 2000. Status: Successful
+[2022142920221199] BYE command received at 2024-04-11 15:22:28
+[2022142920221199] HELO command received at 2024-04-11 19:48:12
+[2022142920221199] HELO command received at 2024-04-11 19:53:41
+[2022090520213440] HELO command received at 2024-04-11 20:00:15
+[2022090520213440] HELO command received at 2024-04-11 20:04:13
+[2022090520213440] HELO command received at 2024-04-11 20:06:59
+[2022090520213440] PASS command received at 2024-04-11 20:06:59. Authentication status: Failed
+[null] BALA command received at 2024-04-11 20:07:01. Balance inquiry result: 0
+[null] WDRA command received at 2024-04-11 20:07:09. Withdrawal amount: 700. Status: Failed
+[null] BALA command received at 2024-04-11 20:07:10. Balance inquiry result: 0
+[2022090520213440] HELO command received at 2024-04-11 20:10:28
+[2022090520213440] PASS command received at 2024-04-11 20:10:29. Authentication status: Failed
+[null] BALA command received at 2024-04-11 20:10:30. Balance inquiry result: 0
+[2022090520213440] HELO command received at 2024-04-11 20:10:58
+[2022090520213440] PASS command received at 2024-04-11 20:10:59. Authentication status: Failed
+[null] BALA command received at 2024-04-11 20:11:00. Balance inquiry result: 0
+[null] BALA command received at 2024-04-11 20:11:03. Balance inquiry result: 0
+[null] WDRA command received at 2024-04-11 20:11:10. Withdrawal amount: 100. Status: Failed
+[null] BALA command received at 2024-04-11 20:11:12. Balance inquiry result: 0
+[2022090520213440] HELO command received at 2024-04-11 20:11:29
+[2022090520213440] PASS command received at 2024-04-11 20:11:30. Authentication status: Failed
+[null] BALA command received at 2024-04-11 20:11:31. Balance inquiry result: 0
+[2022142920221199] HELO command received at 2024-04-11 22:31:48
+[2022142920221199] HELO command received at 2024-04-11 22:32:32
+[2022142920221199] PASS command received at 2024-04-11 22:32:35. Authentication status: Failed
+[2022142920221199] BALA command received at 2024-04-11 22:32:37. Balance inquiry result: 49998000
+[2022142920221199] WDRA command received at 2024-04-11 22:32:53. Withdrawal amount: 5000. Status: Successful
+[2022142920221199] BALA command received at 2024-04-11 22:32:54. Balance inquiry result: 49993000
+[2022142920221199] WDRA command received at 2024-04-11 22:33:03. Withdrawal amount: 8000000. Status: Successful
+[2022142920221199] BALA command received at 2024-04-11 22:33:04. Balance inquiry result: 41993000
+[2022142920221199] BYE command received at 2024-04-11 22:33:07
+[2022142920221199] HELO command received at 2024-04-11 22:33:16
+[2022142920221199] PASS command received at 2024-04-11 22:33:19. Authentication status: Failed
+[2022156120221567] HELO command received at 2024-04-11 23:34:12
+[2022090520243440] HELO command received at 2024-04-18 18:13:12
+[2022090520213440] HELO command received at 2024-04-18 18:13:27
+[2022090520213440] PASS command received at 2024-04-18 18:13:32. Authentication status: Failed
+[2022090520213440] BALA command received at 2024-04-18 18:13:34. Balance inquiry result: 5000000
+[2022156120221567] HELO command received at 2024-04-25 16:33:48
+[2022156120221567] HELO command received at 2024-04-25 16:35:22
+[2022156120221567] HELO command received at 2024-04-25 16:36:58
+[2022156120221567] HELO command received at 2024-04-25 16:38:06
+[2022156120221567] HELO command received at 2024-04-25 16:38:56
+[2022156120221567] HELO command received at 2024-04-25 16:39:44
+[2022156120221567] PASS command received at 2024-04-25 16:39:47. Authentication status: Failed
+[2022156120221567] HELO command received at 2024-04-25 16:42:24
+[2022156120221567] PASS command received at 2024-04-25 16:42:27. Authentication status: Failed
+[2022156120221567] BALA command received at 2024-04-25 16:42:28. Balance inquiry result: 50000000
+[2022156120221567] WDRA command received at 2024-04-25 16:42:32. Withdrawal amount: 200. Status: Successful
+[2022156120221567] BALA command received at 2024-04-25 16:42:36. Balance inquiry result: 49999800
+[2022156120221567] BYE command received at 2024-04-25 16:42:38
+[2022139720220757] HELO command received at 2024-04-25 16:53:44
+[2022139720220757] PASS command received at 2024-04-25 16:53:48. Authentication status: Failed
+[2022139720220757] BALA command received at 2024-04-25 16:53:49. Balance inquiry result: 50000000
+[2022142920221199] HELO command received at 2024-04-25 16:54:07
+[2022142920221199] PASS command received at 2024-04-25 16:54:14. Authentication status: Failed
+[2022142920221199] BALA command received at 2024-04-25 16:54:22. Balance inquiry result: 41993000
+[2022142920221199] WDRA command received at 2024-04-25 16:54:29. Withdrawal amount: 100. Status: Successful
+[2022142920221199] BALA command received at 2024-04-25 16:54:31. Balance inquiry result: 41992900
+[2022142920221199] WDRA command received at 2024-04-25 16:54:37. Withdrawal amount: -100. Status: Successful
+[2022142920221199] WDRA command received at 2024-04-25 16:54:41. Withdrawal amount: -1000. Status: Successful
+[2022142920221199] BALA command received at 2024-04-25 16:54:45. Balance inquiry result: 41994000
+[2022142920221199] BYE command received at 2024-04-25 16:54:51
+[2022156120221567] HELO command received at 2024-04-25 17:00:40
+[2022156120221567] HELO command received at 2024-04-25 17:01:35
+[2022156120221567] HELO command received at 2024-04-25 17:02:37
+[2022156120221567] HELO command received at 2024-04-25 17:04:39
+[2022156120221567] HELO command received at 2024-04-25 17:13:32
+[2022156120221567] HELO command received at 2024-04-25 17:19:29
+[2022156120221567] PASS command received at 2024-04-25 17:19:33. Authentication status: Failed
+[2022156120221567] BALA command received at 2024-04-25 17:19:34. Balance inquiry result: 49999800
+[2022156120221567] WDRA command received at 2024-04-25 17:19:39. Withdrawal amount: 100. Status: Successful
+[2022156120221567] BALA command received at 2024-04-25 17:19:41. Balance inquiry result: 49999700
+[2022156120221567] BYE command received at 2024-04-25 17:19:43
+[2022142920221199] HELO command received at 2024-05-18 23:50:02
+[2022142920221199] PASS command received at 2024-05-18 23:50:26. Authentication status: Failed
+[2022142920221199] BALA command received at 2024-05-18 23:50:47. Balance inquiry result: 41994000
+[2022142920221199] WDRA command received at 2024-05-18 23:51:33. Withdrawal amount: 10000. Status: Successful
